@@ -1,2 +1,0 @@
-# SimulaVirus
-simulador
